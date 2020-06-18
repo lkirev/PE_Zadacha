@@ -1,0 +1,13 @@
+﻿  Coordinates.cpp
+  Ellipse.cpp
+C:\Users\Lubo\source\repos\PE_Zadacha\Ellipse.cpp(18,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lubo\source\repos\PE_Zadacha\Ellipse.cpp(18,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PE_Zadacha.cpp
+C:\Users\Lubo\source\repos\PE_Zadacha\PE_Zadacha.cpp(27,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lubo\source\repos\PE_Zadacha\PE_Zadacha.cpp(28,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lubo\source\repos\PE_Zadacha\PE_Zadacha.cpp(31,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lubo\source\repos\PE_Zadacha\PE_Zadacha.cpp(36,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lubo\source\repos\PE_Zadacha\PE_Zadacha.cpp(42,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lubo\source\repos\PE_Zadacha\PE_Zadacha.cpp(42,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  PE_Zadacha.vcxproj -> C:\Users\Lubo\source\repos\PE_Zadacha\Debug\PE_Zadacha.exe

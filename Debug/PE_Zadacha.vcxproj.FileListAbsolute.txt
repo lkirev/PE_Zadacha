@@ -1,0 +1,2 @@
+C:\Users\Lubo\source\repos\PE_Zadacha\Debug\PE_Zadacha.exe
+C:\Users\Lubo\source\repos\PE_Zadacha\Debug\PE_Zadacha.pdb
